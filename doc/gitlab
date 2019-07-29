@@ -1,0 +1,8 @@
+https://docs.gitlab.com/ee/gitlab-basics/create-project.html
+
+## Git push using SSH
+git push --set-upstream git@gitlab.com:eoalcantara/clean_architecture.git master
+
+## Git push using HTTPS
+git push --set-upstream https://gitlab.com/eoalcantara/clean_architecture.git master
+
